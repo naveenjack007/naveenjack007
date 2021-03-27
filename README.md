@@ -4,7 +4,7 @@
 
 <p align="center">
   
-  <a href="https://linkedin.com/"><img alt="followers" title="Follow me on Linkedin" src="https://img.shields.io/badge/-naveenjack007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-n-a125651b4/"/></a>
+  <a href="https://www.linkedin.com/in/naveen-n-a125651b4/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
   <a href="https://github.com/naveenjack007"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/naveenjack007?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/naveenjack007"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
@@ -25,7 +25,7 @@
 
 <p align="left">
  
-  <a href="https://www.linkedin.com/in/naveen-n-a125651b4/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
+  <a href="https://www.linkedin.com/in/naveen-n-a125651b4/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
   
 </p>
 
