@@ -12,7 +12,7 @@
 ## 📖 About me
 
 * 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
+* 📱 I'm well versed in system administration
 * 🎓 I'm a Computer Science student (graduating in June 2022)
 
 <p align="left">
